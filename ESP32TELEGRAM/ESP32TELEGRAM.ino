@@ -5,7 +5,7 @@
 #define WIFI_SSID "PC8158"
 #define WIFI_PASSWORD "12345678"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "6373937960:AAGkD4zyun-Y093AiL5kkXqn0-HzpulOpMM"
+#define BOT_TOKEN "637393Xqn0-HzpulOpMM"
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
 WiFiClientSecure secured_client;
 UniversalTelegramBot bot(BOT_TOKEN, secured_client);
